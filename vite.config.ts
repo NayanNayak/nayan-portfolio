@@ -5,7 +5,7 @@ import { componentTagger } from "lovable-tagger";
 
 // https://vitejs.dev/config/
 export default defineConfig(({ mode }) => ({
-  base: "/portfolio-nayan/", // Base path for GitHub Pages
+  base: "/nayan-portfolio/", // Base path for GitHub Pages
   server: {
     host: "::",
     port: 8080,
